@@ -4,13 +4,13 @@
       "verse": 1,
       "arab": "الم",
       "latin": "alif laam miim",
-      "id": "Alif Lam Mim."
+      "id": "Alif laam miim."
     },
     {
       "verse": 2,
       "arab": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۖ فِيهِ هُدًى لِّلْمُتَّقِينَ",
-      "latin": "dzaalikal kitaabu laa raiba fiih, hudal lil muttaqiin",
-      "id": "Kitab (Al-Qur'an) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa,"
+      "latin": "dzaalikal kitaabu laa raiba fiih, hudan lilmuttaqiin",
+      "id": "Kitab (Al Quran) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa,"
     },
     {
       "verse": 3,
@@ -21,13 +21,13 @@
     {
       "verse": 4,
       "arab": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
-      "latin": "walladziina yu’minuuna bimaa unzila ilaika wamaa unzila min qablika wa bil aakhirati hum yuuqinuun",
-      "id": "dan mereka yang beriman kepada Kitab (Al-Qur'an) yang telah diturunkan kepadamu dan kitab-kitab yang telah diturunkan sebelummu, serta mereka yakin akan adanya (kehidupan) akhirat."
+      "latin": "walladziina yu’minuuna bimaa unzila ilaika wamaa unzila min qablika wabil-aakhirati hum yuuqinuun",
+      "id": "dan mereka yang beriman kepada Kitab (Al-Quran) yang telah diturunkan kepadamu dan kitab-kitab yang telah diturunkan sebelummu, serta mereka yakin akan adanya (kehidupan) akhirat."
     },
     {
       "verse": 5,
       "arab": "أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
-      "latin": "ulaa-ika ‘alaa hudam mir rabbihim wa ulaa-ika humul muflihuun",
+      "latin": "ulaa-ika 'alaa hudam mir rabbihim wa ulaa-ika humul muflihuun",
       "id": "Merekalah yang mendapat petunjuk dari Tuhannya, dan merekalah orang-orang yang beruntung."
     },
     {
@@ -41,6 +41,24 @@
       "arab": "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ وَلَهُمْ عَذَابٌ عَظِيمٌ",
       "latin": "khatamallahu ‘alaa quluubihim wa ‘alaa sam’ihim wa ‘alaa abshaarihim ghisyaawatun wa lahum ‘adzaabun ‘azhiim",
       "id": "Allah telah mengunci hati dan pendengaran mereka, dan penglihatan mereka ditutup. Dan bagi mereka siksa yang berat."
+    },
+    {
+      "verse": 8,
+      "arab": "وَمِنَ النَّاسِ مَن يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُم بِمُؤْمِنِينَ",
+      "latin": "wa minan naasi man yaquulu aamannaa billaahi wa bilyawmil aakhiri wamaa hum bimu’miniin",
+      "id": "Di antara manusia ada yang mengatakan: \"Kami beriman kepada Allah dan Hari kemudian,\" padahal mereka itu sesungguhnya bukan orang-orang yang beriman."
+    },
+    {
+      "verse": 9,
+      "arab": "يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "latin": "yukhaadi’uunallaaha walladziina aamanuu wamaa yakhda’uuna illaa anfusahum wamaa yash’uruun",
+      "id": "Mereka hendak menipu Allah dan orang-orang yang beriman, padahal mereka hanya menipu dirinya sendiri sedang mereka tidak sadar."
+    },
+    {
+      "verse": 10,
+      "arab": "فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ",
+      "latin": "fii quluubihim maradun fazaadahumullaahu maradan wa lahum ‘adzaabun aliimun bimaa kaanuu yakdhibuun",
+      "id": "Dalam hati mereka ada penyakit, lalu ditambah Allah penyakitnya; dan bagi mereka siksa yang pedih, disebabkan mereka berdusta."
     }
   ]
 }
