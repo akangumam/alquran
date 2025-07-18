@@ -1,29 +1,40 @@
 {
-    "chapter": [
-        {
-            "chapter": 113,
-            "verse": 1,
-            "text": "قُلۡ اَعُوۡذُ بِرَبِّ الۡفَلَقِۙ‏"
-        },
-        {
-            "chapter": 113,
-            "verse": 2,
-            "text": "مِنۡ شَرِّ مَا خَلَقَۙ‏"
-        },
-        {
-            "chapter": 113,
-            "verse": 3,
-            "text": "وَمِنۡ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ‏"
-        },
-        {
-            "chapter": 113,
-            "verse": 4,
-            "text": "وَمِنۡ شَرِّ النَّفّٰثٰتِ فِي الۡعُقَدِۙ‏"
-        },
-        {
-            "chapter": 113,
-            "verse": 5,
-            "text": "وَمِنۡ شَرِّ حَاسِدٍ اِذَا حَسَدَࣖ‏"
-        }
-    ]
+  "chapter": [
+    {
+      "verse": 1,
+      "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "latin": "bismillaahir-rohmaanir-rohiim",
+      "id": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang."
+    },
+    {
+      "verse": 2,
+      "arab": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "latin": "qul a'udzu birabbil-falaq",
+      "id": "Katakanlah: \"Aku berlindung kepada Tuhan yang menguasai subuh (fajar),"
+    },
+    {
+      "verse": 3,
+      "arab": "مِن شَرِّ مَا خَلَقَ",
+      "latin": "min syarri maa khalaq",
+      "id": "dari kejahatan makhluk-Nya,"
+    },
+    {
+      "verse": 4,
+      "arab": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "latin": "wa min syarri ghaasiqin idzaa waqab",
+      "id": "dan dari kejahatan malam apabila telah gelap gulita,"
+    },
+    {
+      "verse": 5,
+      "arab": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "latin": "wa min syarrin-naffaa-saati fil-'uqad",
+      "id": "dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul,"
+    },
+    {
+      "verse": 6,
+      "arab": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "latin": "wa min syarri haasidin idzaa hasad",
+      "id": "dan dari kejahatan orang yang dengki apabila ia dengki."
+    }
+  ]
 }
