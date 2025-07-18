@@ -2,33 +2,27 @@
   "chapter": [
     {
       "verse": 1,
-      "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "latin": "bismillaahir-rohmaanir-rohiim",
-      "id": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang."
+      "arab": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "latin": "qul huwallahu ahad",
+      "id": "Katakanlah: Dialah Allah, Yang Maha Esa."
     },
     {
       "verse": 2,
-      "arab": "قُلْ هُوَ اللَّهُ أَحَدٌ",
-      "latin": "qul huwallaahu ahad",
-      "id": "Katakanlah (Muhammad), 'Dialah Allah, Yang Maha Esa.'"
+      "arab": "اللَّهُ الصَّمَدُ",
+      "latin": "allahu shamad",
+      "id": "Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu."
     },
     {
       "verse": 3,
-      "arab": "اللَّهُ الصَّمَدُ",
-      "latin": "allaahush-shamad",
-      "id": "Allah tempat meminta segala sesuatu."
+      "arab": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "latin": "lam yalid wa lam yuulad",
+      "id": "Dia tiada beranak dan tidak pula diperanakkan."
     },
     {
       "verse": 4,
-      "arab": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
-      "latin": "lam yalid wa lam yuulad",
-      "id": "Dia tidak beranak dan tidak pula diperanakkan."
-    },
-    {
-      "verse": 5,
       "arab": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
       "latin": "wa lam yakun lahu kufuwan ahad",
-      "id": "Dan tidak ada sesuatu yang setara dengan Dia."
+      "id": "Dan tidak ada seorang pun yang setara dengan Dia."
     }
   ]
 }
