@@ -2,42 +2,36 @@
   "chapter": [
     {
       "verse": 1,
-      "arab": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "latin": "bismillaahir-rohmaanir-rohiim",
-      "id": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang."
-    },
-    {
-      "verse": 2,
       "arab": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
       "latin": "qul a'udzu birabbin-naas",
       "id": "Katakanlah: \"Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia."
     },
     {
-      "verse": 3,
+      "verse": 2,
       "arab": "مَلِكِ النَّاسِ",
       "latin": "malikin-naas",
       "id": "Raja manusia."
     },
     {
-      "verse": 4,
+      "verse": 3,
       "arab": "إِلَٰهِ النَّاسِ",
       "latin": "ilaahin-naas",
       "id": "Sembahan manusia."
     },
     {
-      "verse": 5,
+      "verse": 4,
       "arab": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
       "latin": "min syarril-waswaasil khannaas",
       "id": "Dari kejahatan (bisikan) setan yang bersembunyi,"
     },
     {
-      "verse": 6,
+      "verse": 5,
       "arab": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
       "latin": "alladzii yuwaswisu fii shuduurin-naas",
       "id": "yang membisikkan (kejahatan) ke dalam dada manusia,"
     },
     {
-      "verse": 7,
+      "verse": 6,
       "arab": "مِنَ الْجِنَّةِ وَالنَّاسِ",
       "latin": "minal-jinnati wannas",
       "id": "dari (golongan) jin dan manusia."
